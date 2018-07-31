@@ -14,7 +14,7 @@ This is the capstone project of the Nanodegree program that allows you to demons
 
 ## Description
 
-:ribbon: :convenience_store: :ribbon: My Inventory App allows user to keep track of their inventory:
+:ribbon: :convenience_store: :ribbon: My Easy Inventory App allows user to keep track of their inventory:
 
 * Empty store screen
 * Insert dummy data
